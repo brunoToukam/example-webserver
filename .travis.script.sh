@@ -1,6 +1,6 @@
 #!/bin/bash -xe
 
-DOCKER_ORG="clomps"
+DOCKER_ORG="brunovalere"
 DOCKER_IMAGE="example-webserver"
 DOCKER_TAG="latest"
 
